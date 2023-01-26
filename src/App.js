@@ -7,7 +7,7 @@ import Home from "./components/Home";
 const App = () => {
   return (
     <div>
-      <BrowserRouter basename="/">
+      <BrowserRouter>
         <div>
           <nav>
             <ul>
